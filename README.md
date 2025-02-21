@@ -21,8 +21,8 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/redx647/Redx 
-cd Redx.git
+git clone https://github.com/redx647/Redx.git
+cd Redx
 pip3 install -r requirements.txt
 python3 Red-XTR.py
 ```
