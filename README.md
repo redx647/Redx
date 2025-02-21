@@ -14,6 +14,7 @@ sudo apt-get install python3
 
 ### Instalation on Termux
 ```
+pkg update && pkg upgrade -y
 pkg install git
 pkg install python3
 ```
