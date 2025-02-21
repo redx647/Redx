@@ -3,8 +3,8 @@ Useful tool to track location or mobile number, so this tool can be called osint
 
 <img src="https://raw.githubusercontent.com/redx647/Redx/refs/heads/main/bn.png"/>
 
-New update :
-```Version 2.2```
+New :
+```Version```
 
 ### Instalation on Linux (deb)
 ```
